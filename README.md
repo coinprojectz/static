@@ -7,10 +7,6 @@ layout: landing
 
 <figure><img src="https://pub-20e64375b52c4c85a8baf14772eff5be.r2.dev/CryptoZenith.png" alt=""><figcaption></figcaption></figure>
 
-```html
-<meta name="google-site-verification" content="sB3vi7FRrn3I6TjoIQEcgj08jsdb3WewNyvivJK2d68" />
-```
-
 ### Chapter 1: The Early Days
 
 #### Introduction: Welcome to My World
