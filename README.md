@@ -1,5 +1,4 @@
 ---
-<meta name="google-site-verification" content="sB3vi7FRrn3I6TjoIQEcgj08jsdb3WewNyvivJK2d68" />
 description: How I Turned My Crypto Fortunes Around
 layout: landing
 ---
