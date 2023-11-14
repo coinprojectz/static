@@ -1,14 +1,11 @@
 {
-    "plugins": ["meta"],
+    "plugins": [
+        "meta"
+    ],
     "pluginsConfig": {
         "meta": {
-            "data": [
-                {
-                    "name": "google-site-verification",
-                    "content": "sB3vi7FRrn3I6TjoIQEcgj08jsdb3WewNyvivJK2d68"
-                }
-                
-            ]
+            "name": "google-site-verification",
+            "content": "sB3vi7FRrn3I6TjoIQEcgj08jsdb3WewNyvivJK2d68"
         }
     }
 }
